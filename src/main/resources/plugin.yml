@@ -4,3 +4,4 @@ main: me.william278.cancelchat.CancelChat
 api-version: 1.17
 authors: [ William278 ]
 description: Cancels the chat event
+folia-supported: true
